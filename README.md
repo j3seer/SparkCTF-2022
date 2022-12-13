@@ -1,6 +1,6 @@
 # SparkCTF 2022
 
-## Writeups / Solvers for challenges hosted @SparkCTF 2022
+This repo consists of writeups / solvers for challenges hosted @SparkCTF 2022
 
 ## Final Scoreboard
 
