@@ -1,0 +1,10 @@
+		Scan Result
+		   350
+
+	It seems that the hacker got something
+	and the computer system is more vulnerable
+	then the consultant thought. We did well
+	to hire a pentester. What are the availble
+	protocoles running on the victims computer.?
+
+	author: cybereagle2001

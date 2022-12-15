@@ -1,0 +1,5 @@
+a warmup chall with a smoll binary
+
+flag : SparkCTF{a93ef962bc8afdbebe61be2a9b8fe99d0dfd45f1a0192827137966cc0989b43d}
+
+Author: muwa00

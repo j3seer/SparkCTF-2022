@@ -1,0 +1,9 @@
+Rev challenge
+Title: Virtual Machine
+Difficulty: Hard
+Description: You came across a computer with a strange architecture, and it asks you to insert 2kB of RAM. Upon insertion, it just says "Nopity Nope". Can you figure out anything else?
+Provided: VM, Memory
+Flag: SparkCTF{42f8a30917ebdef9b62bf447d79e074ba12f7144e179ef49cf25a04fb55957ab}
+
+---solution----
+it's an OISC emulator where the flag is manipulated and stored. The memory is encrypted as well.

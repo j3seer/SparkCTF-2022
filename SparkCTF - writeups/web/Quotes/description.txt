@@ -1,0 +1,8 @@
+Your average Quotes website! With a bug reporting feature :)
+
+
+flag : SparkCTF{25797b1d3b14bc0eb5f1d4e8143aa797c3e4780cde4f28dc1e3ea831f6a0dd95}
+
+Author : j3seer
+
+

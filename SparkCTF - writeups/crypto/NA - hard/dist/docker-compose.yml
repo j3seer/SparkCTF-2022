@@ -1,0 +1,8 @@
+version: '3'
+services:
+  aes:
+    container_name: aes
+    hostname: aes
+    build: .
+    ports:
+      - "30001:30001"

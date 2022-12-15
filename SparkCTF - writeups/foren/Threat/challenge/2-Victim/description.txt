@@ -1,0 +1,9 @@
+		Victim
+		 100
+
+	Well it seems that my attacker
+	is already in the same network
+	can you get the victim IP?
+
+	author: cybereagle2001
+

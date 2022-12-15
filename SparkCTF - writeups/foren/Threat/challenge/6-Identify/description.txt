@@ -1,0 +1,7 @@
+		Identify the attack
+			300
+
+	what was the technique used to 
+	gain access on the victims computer?
+
+	author: cybereagle2001
